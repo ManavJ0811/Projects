@@ -1,2 +1,2 @@
-# Quiz
-this is a quiz game made in python
+# Projects
+ALl these projects are made in python
