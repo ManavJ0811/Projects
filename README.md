@@ -6,10 +6,10 @@ This GitHub is where I share my learning journey, small projects, and experiment
 ---
 
 ## 📖 What I'm Learning
-- Basics of Python (variables, loops, functions)
+- Basics to Intermediate in Python and Further AIML (variables, loops, functions)
 - Working with lists, dictionaries, and tuples
 - File handling and exceptions
-- Object-Oriented Programming (OOP) concepts
+- Object-Oriented Programming (OOP) concepts and APIs
 - Beginner projects (calculators, small games, automation scripts)
 
 ---
@@ -36,6 +36,8 @@ This GitHub is where I share my learning journey, small projects, and experiment
 
 ## 📫 Connect with Me
 - LindkedIn...... https://www.linkedin.com/in/manav-kumar-4bb26a342/
+- HackerRank..... https://www.hackerrank.com/profile/messixgod336
+- LeetCode.....https://leetcode.com/u/Manav0811/
 
  
 
