@@ -22,6 +22,9 @@ This GitHub is where I share my learning journey, small projects, and experiment
 - 🔹A quiz
 - 🔹Rock Paper Scissors Game
 - 🔹A Banking program
+- 🔹Currency converter(API)
+- 🔹Calculator(GUI)
+- 🔹WEB scraper(API)
 
 *(More coming soon as I keep learning!)*  
 
